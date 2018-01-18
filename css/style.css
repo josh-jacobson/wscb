@@ -769,7 +769,7 @@ button.close:hover {
 
 #header {
   color:#FFF;
-  background:#333 url(../images/content/bg/1.jpg) no-repeat top center;
+  background:#333 url(../images/backgrounds/home.jpg) no-repeat top center;
   background-size:cover;
   opacity:0;
 }
@@ -825,6 +825,9 @@ button.close:hover {
       height:50px;
       background:url(../images/sep-header-button.png) no-repeat center center;
       margin:5px 35px;
+    }
+    #header .header-button img {
+      width:150px;
     }
 
 
