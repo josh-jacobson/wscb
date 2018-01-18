@@ -1325,13 +1325,25 @@ button.close:hover {
     .tbl-pricing .tbl-prc-col.tbl-prc-col-recommended .tbl-prc-footer .btn-custom:hover { background-color:#2b9eec; }
 
 
+/* ========================= Sections ========================= */
+
+#ted {
+  background-color: #13112C;
+}
+
+#ted h2, p {
+  color: white;
+}
+
+#book {
+  background:#fff url(../images/backgrounds/about.jpg) no-repeat top center;
+}
 
 /* ========================= Footer ========================= */
 
 #footer {
-  color:#FFF;
   text-align:center;
-  background:#333 url(../images/base-footer.jpg) repeat top left;
+  background-color: #13112C;
   padding:60px 0px;
 }
   #footer a {
@@ -1354,6 +1366,9 @@ button.close:hover {
   #footer .footer-copyright {
     font-family:Montserrat, Arial, sans-serif;
     margin:0px;
+  }
+  #footer h2 {
+    color:white;
   }
 
 
@@ -1819,6 +1834,9 @@ button.close:hover {
   #header .header-text {
     text-align:center;
     padding-top:0px;
+  }
+  .header-text {
+    text-align:center;
   }
   #header .header-logo { margin-bottom:25px; }
   #header .header-content { margin-top:20px; }
