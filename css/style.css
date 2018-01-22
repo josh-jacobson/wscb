@@ -769,7 +769,7 @@ button.close:hover {
 
 #header {
   color:#FFF;
-  background:#333 url(../images/backgrounds/home.jpg) no-repeat top center;
+  background:#333 url(/images/backgrounds/home.jpg) no-repeat top center;
   background-size:cover;
   opacity:0;
 }
