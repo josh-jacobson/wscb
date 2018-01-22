@@ -769,7 +769,7 @@ button.close:hover {
 
 #header {
   color:#FFF;
-  background:#333 url(/images/backgrounds/home.jpg) no-repeat top center;
+  background:#333 url(https://s3.amazonaws.com/wscb/images/home.jpg) no-repeat top center;
   background-size:cover;
   opacity:0;
 }
@@ -1336,7 +1336,7 @@ button.close:hover {
 }
 
 #book {
-  background:#fff url(../images/backgrounds/about.jpg) no-repeat top center;
+  background:#fff url(https://s3.amazonaws.com/wscb/images/about.jpg) no-repeat top center;
 }
 
 /* ========================= Footer ========================= */
