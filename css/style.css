@@ -793,13 +793,12 @@ button.close:hover {
   #header .header-content {
     font-size:18px;
     line-height:26px;
-    margin-top:40px;
+    margin-top: 10px;
   }
     #header .header-content p { margin-bottom:25px; }
     #header .header-content p:last-child { margin-bottom:0px; }
   #header .header-button {
     padding-left:40px;
-    margin-top:50px;
   }
   #header .header-button:before, #header .header-button:after {
     display:table;
@@ -1488,7 +1487,7 @@ button.close:hover {
   .col-text60, .col-text80 { padding-top:20px; }
   .col-text100, .col-text120 { padding-top:40px; }
 
-  #header .header-text { padding-top:70px; }
+  #header .header-text { padding-top:0 }
   #header .header-logo { margin-bottom:60px; }
   #header .header-heading {
     font-size:38px;
