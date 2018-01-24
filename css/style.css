@@ -621,6 +621,24 @@ button.close:hover {
   opacity:0;
 }
 
+.red-line-center {
+  border-color: #E70000;
+  width: 20%;
+  margin-top:0;
+}
+
+.no-margin {
+  margin-bottom: 5px;
+}
+
+.red-line-right {
+  margin-top:0;
+  border-color: #E70000;
+  width: 70%;
+  float: right;
+  margin-bottom:20px;
+}
+
 .post-heading-left { margin-bottom:25px; }
 .post-heading-center {
   text-align:center;
@@ -632,12 +650,9 @@ button.close:hover {
     padding-bottom:18px;
     margin:0px;
   }
-  .post-heading-left h2 { background:url(../images/border-post-heading-left.png) no-repeat bottom left; }
   .post-heading-left.border-style2 h2 { background-image:url(../images/border-post-heading-left2.png); }
   .bg-color .post-heading-left h2, .bg-parallax .post-heading-left h2 { background-image:url(../images/border-post-heading-left-white.png); }
   .bg-color .post-heading-left.border-style2 h2, .bg-parallax .post-heading-left.border-style2 h2 { background-image:url(../images/border-post-heading-left2-white.png); }
-  .post-heading-center h2 { background:url(../images/border-post-heading-center.png) no-repeat bottom center; }
-  .bg-color .post-heading-center h2, .bg-parallax .post-heading-center h2 { background-image:url(../images/border-post-heading-center-white.png); }
   .post-heading-left p, .post-heading-center p {
     color:#6a6a6a;
     font-size:18px;
@@ -780,7 +795,7 @@ button.close:hover {
   #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 { color:#FFF; }
   #header a { color:#77c8fe; }
   #header a:hover { color:#FFF; }
-  #header .header-text { padding-top:140px; }
+  #header .header-text { padding-top:70px; }
   #header .header-logo {
     text-align:center;
     margin-bottom:80px;
@@ -1328,6 +1343,10 @@ button.close:hover {
 
 #ted {
   background-color: #13112C;
+}
+
+.about-ted-container {
+  text-align: right;
 }
 
 .white-text {
