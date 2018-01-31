@@ -1349,6 +1349,10 @@ button.close:hover {
   text-align: right;
 }
 
+.ted-photo {
+  padding-top:60px;
+}
+
 .white-text {
   color: white;
 }
