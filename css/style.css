@@ -1358,7 +1358,7 @@ button.close:hover {
 }
 
 #book {
-  background:#fff url(https://s3.amazonaws.com/wscb/images/about.jpg) no-repeat round top center;
+  background:#fff url(https://s3.amazonaws.com/wscb/images/about.jpg) no-repeat top center;
 }
 
 /* ========================= Footer ========================= */
