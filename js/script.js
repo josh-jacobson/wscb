@@ -89,7 +89,7 @@
           dots: true,
           autoplay: true,
           slidesToScroll: 1,
-          autoplaySpeed: 10000
+          autoplaySpeed: 12000
         });
       });
     },
