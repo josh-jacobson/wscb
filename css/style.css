@@ -813,7 +813,7 @@ button.close:hover {
     #header .header-content p { margin-bottom:25px; }
     #header .header-content p:last-child { margin-bottom:0px; }
   #header .header-button {
-    padding-left:40px;
+    padding-left:100px;
   }
   #header .header-button:before, #header .header-button:after {
     display:table;
@@ -841,7 +841,7 @@ button.close:hover {
       margin:5px 35px;
     }
     #header .header-button img {
-      width:150px;
+      width:175px;
     }
 
 
@@ -1516,7 +1516,7 @@ button.close:hover {
     font-size:38px;
     line-height:46px;
   }
-  #header .header-button { padding-left:0px; }
+  #header .header-button { padding-left:50px; }
 
   #navigation .nav > li {
     padding-right:16px;
@@ -1670,7 +1670,7 @@ button.close:hover {
     font-size:38px;
     line-height:46px;
   }
-  #header .header-button { padding-left:0px; }
+  #header .header-button { padding-left:25px; }
 
   #navigation .nav > li {
     padding-right:5px;
